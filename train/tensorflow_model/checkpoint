@@ -1,0 +1,2 @@
+model_checkpoint_path: "/fds/tensorflow_model/model.ckpt"
+all_model_checkpoint_paths: "/fds/tensorflow_model/model.ckpt"
